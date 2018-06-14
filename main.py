@@ -1,5 +1,5 @@
 import sys
-from helpers import sendRequest, getWebsiteTitle, runTrelloApi, sendToUrlScan
+from helpers import sendRequest, getWebsiteTitle, runTrelloApi
 from time import sleep
 # global arrays for what the search should have
 trello = []
